@@ -1,2 +1,2 @@
-$.response.setBody("HANA test");
+$.response.setBody("Glazers HANA test");
  
